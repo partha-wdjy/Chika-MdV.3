@@ -18,24 +18,24 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
-global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.owner = ['6285692261162','6285692261162','6285692261162']
+global.premium = ['6285692261162']
+global.ownernomer = '6285692261162'
+global.ownername = 'Partha'
+global.botname = 'KRiZ-Md'
+global.footer = 'Partha'
+global.ig = 'https://instagram.com/partha-wdjy'
+global.email = 'parthawdjy@gmail.com'
+global.region = 'Republic Jomblo'
+global.sc = 'https://github.com/partha-wdjy'
+global.myweb = 'https://bit.ly/partha-wdjy'
+global.packname = 'KRiZ-Md'
+global.author = 'bit.ly/partha-wdjy'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '✓ Sampun Masszeh',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
